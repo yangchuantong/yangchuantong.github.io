@@ -29,16 +29,16 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: 杨传桐
   card: summary
 logo: logo.png
 social:
   name: Songzi Vong
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://twitter.com/yangchuantong
+    - https://github.com/yangchuantong
 google_site_verification: xxxxx
-lang: en
+lang: zh
 
 sass:
   sass_dir: _sass
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: 杨传桐
+  url: https://github.com/yangchuantong/
+  email: chuantong_yang@163.com
